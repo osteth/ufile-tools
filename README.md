@@ -16,7 +16,7 @@ a virtual environment. Clone the repo.
 
 .. code-block:: console
 
-    git https://github.com/osteth/ufile-tools.git
+    git clone https://github.com/osteth/ufile-tools.git
     cd ufile-tools
     
 Then install locally.
